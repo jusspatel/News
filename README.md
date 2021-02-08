@@ -27,3 +27,9 @@ You have the choice of several languages , almost each and every country and sev
 
 ### Weather :
 <img src = "https://github.com/jusspatel/News/blob/main/Screenshot%20(195).png">
+
+### Search News By term : 
+<img src = "https://github.com/jusspatel/News/blob/main/Screenshot%20(196).png">
+
+# Supported Languages :
+## For now , only Python 3.X supports this . 
