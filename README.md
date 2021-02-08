@@ -26,3 +26,4 @@ A newspaper application with several categories and even the power to check weat
 You have the choice of several languages , almost each and every country and several topics. 
 
 ### Weather :
+<img src = "https://github.com/jusspatel/News/blob/main/Screenshot%20(195).png">
