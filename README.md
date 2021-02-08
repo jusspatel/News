@@ -19,3 +19,6 @@ A newspaper application with several categories and even the power to check weat
 * base64 
 * ttk
 
+# Features
+#### By the way , please do remember that while running the application , it will hang . Not to worry , it is part of the process . It automatically unfreezes after 10-15 seconds
+### Search news by categories : 
