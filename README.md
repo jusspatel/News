@@ -8,4 +8,14 @@ A newspaper application with several categories and even the power to check weat
 4) Voila ! The application is now running . 
 
 # Modules Used
-
+<li> tkinter </li>
+from gnewsclient import gnewsclient
+import requests 
+import json
+import datetime #line:2
+import tkinter .font as tkFont #line:6
+import tkinter .messagebox #line:8
+from urllib .request import urlopen #line:9
+import base64 #line:10
+import tkinter.ttk as ttk
+from datetime import date
