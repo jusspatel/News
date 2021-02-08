@@ -36,6 +36,7 @@ print("Please wait")
 os.system('pip install requests')
 os.system('pip install datetime')
 os.system('pip install Pillow')
+os.system('pip3 install urllib3')
 
 print(Fore.CYAN + " [+] OPENING APP ")
 
