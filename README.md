@@ -1,5 +1,5 @@
 # E - NewsPaper 
-A newspaper application with several categories and news feeds. 
+<b>A newspaper application with several categories and news feeds.<b> 
 
 # Installation
 First of all go to the releases section ,then : 
