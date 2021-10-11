@@ -8,3 +8,7 @@
 3. A windows defender message might popup . If it does , click on <b>More Info</b> and then click <b>Run Anyway </b>
 4. Wait for 5-15 Seconds
 5. Voila ! The application is now running . 
+
+## Preview 
+
+![](https://github.com/jusspatel/News/blob/main/Untitled.gif)
