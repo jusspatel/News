@@ -14,9 +14,10 @@
 
 ### First of all go to the releases section ,then :
 1. Download the repository as GnewsSetup.exe (Click where `GnewsSetup.exe` is given).
-2. Run the file , and do as the instructions say during the setup (Prefer to create a desktop icon).
-3. After 2 or 3 minutes of setting up , go to the start menu and you'll see the application there.
-4. Just double click and run it!
+2. A windows defender message might popup . If it does , click on More Info and then click Run Anyway
+3. Run the file , and do as the instructions say during the setup (Prefer to create a desktop icon).
+4. After 2 or 3 minutes of setting up , go to the start menu and you'll see the application there.
+5. Just double click and run it!
   
 </details>
 
