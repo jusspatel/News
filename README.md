@@ -2,6 +2,23 @@
 <b>A newspaper application with several categories and news feeds.</b> 
 
 # Installation
+<details>
+  
+  <summary>
+    
+## For v1.6.0 and above :
+    
+  </summary>
+  
+
+
+### First of all go to the releases section ,then :
+1. Download the repository as GnewsSetup.exe (Click where `GnewsSetup.exe` is given).
+2. Run the file , and do as the instructions say during the setup (Prefer to create a desktop icon).
+3. After 2 or 3 minutes of setting up , go to the start menu and you'll see the application there.
+4. Just double click and run it!
+  
+</details>
 
 <details>
   <summary>
